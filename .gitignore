@@ -1,0 +1,16 @@
+# Ignore data files
+*.csv
+
+data/
+landing/
+*.zip
+*.rar
+
+# Operating system remnants
+.DS_Store
+Thumbs.db
+
+# AWS and Databricks local settings
+.aws/
+.databricks/
+.env
